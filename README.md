@@ -1,3 +1,4 @@
 # Python-code
-this is my first folder 
-author-Ajay Srivastav
+this is my first Git Repository.
+<br>
+Author-Ajay Srivastav
